@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Malhar Dharmadhikari (Necromancer376)
 - 👀 I’m interested in Android Dev, ML, AI, Game dev.
 - 🌱 I’m currently learning Android Develoupent, OpenCV
-- 💞️ I’m looking to collaborate on android deveoupment, C++ projects, SFML
+- 💞️ I’m looking to collaborate on android development, C++ projects, SFML
 - 📫 How to reach me: mail me on malhar.dharmadhikari@gmail.com
 
 <!---

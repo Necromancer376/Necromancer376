@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android Developent, OpenCV
 - 💞️ I’m looking to collaborate on android development, C++ projects, SFML
 - 📫 How to reach me: mail me on malhar.dharmadhikari@gmail.com
-- ⚙️ Current Project- CampusBuy ( https://github.com/Necromancer376/CampusBuy )
+- ⚙️ Currently working on CampusBuy ( https://github.com/Necromancer376/CampusBuy )
 
 
 <!---

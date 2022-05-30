@@ -2,12 +2,12 @@
 - 👀 I’m interested in Android Dev, ML, AI, Game dev.
 - 🌱 I’m currently learning Android Developent, OpenCV
 - 💞️ I’m looking to collaborate on android development, C++ projects, SFML
-- 📫 How to reach me: mail me on malhar.dharmadhikari@gmail.com
 - ⚙️ Current Project- CampusBuy ( https://github.com/Necromancer376/CampusBuy )
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<p>malhar.dharmadhikari@gmail.com</p>
 <a href="https://www.linkedin.com/in/malhar-dharmadhikari-711a60221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malhar-dharmadhikari" height="30" width="40" /></a>
 </p>
 

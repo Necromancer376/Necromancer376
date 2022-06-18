@@ -3,7 +3,14 @@
 - 🌱 I’m currently learning Android Developent, Firebase
 - 💡 I'm fluent in C++, Java, Kotlin, C, Python. I'm also comfortable with Firebase, SQL
 - 💞️ I’m looking to collaborate on android development projects
-- ⚙️ Current Project- CampusBuy ( https://github.com/Necromancer376/CampusBuy )
+
+<h3>Current Project</he>
+  CampusBuy ( https://github.com/Necromancer376/CampusBuy )
+    - Android App
+    - Tech Stack: Kotlin, Firebase, FireStore
+    - Helped me learn 
+      - Firestore
+      
 
 
 <h3 align="left">Connect with me:</h3>

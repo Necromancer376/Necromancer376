@@ -9,9 +9,9 @@
  - Android App
  - Tech Stack: Kotlin, Firebase, FireStore
  - Learning from this project
-     - Firestore
-     - Writing scalable/easily modifiable code
-     - Fragment based activities
+  - Firestore
+  - Writing scalable/easily modifiable code
+  - Fragment based activities
       
 
 

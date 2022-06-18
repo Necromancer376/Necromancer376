@@ -4,7 +4,7 @@
 - 💡 I'm fluent in C++, Java, Kotlin, C, Python. I'm also comfortable with Firebase, SQL
 - 💞️ I’m looking to collaborate on android development projects
 
-<h3>Current Project</h3>
+## Current Project
 - CampusBuy ( https://github.com/Necromancer376/CampusBuy )
  - Android App
  - Tech Stack: Kotlin, Firebase, FireStore

@@ -5,11 +5,13 @@
 - 💞️ I’m looking to collaborate on android development projects
 
 <h3>Current Project</he>
-  CampusBuy ( https://github.com/Necromancer376/CampusBuy )
+ CampusBuy ( https://github.com/Necromancer376/CampusBuy )
     - Android App
     - Tech Stack: Kotlin, Firebase, FireStore
     - Helped me learn 
       - Firestore
+      - Writing scalable/easily modifiable code
+      - Fragment based activities
       
 
 

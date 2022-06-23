@@ -19,11 +19,8 @@
 </p>
 
 
-<!---
-Necromancer376/Necromancer376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?necromancer376" frameborder="0"></iframe> 
+<p><img src="https://ionicabizau.github.io/github-profile-languages/api.html?necromancer376"></p>
+<!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?necromancer376" frameborder="0"></iframe>  -->
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Necromancer376&show_icons=true&locale=en&theme=gotham" alt="Necromancer376" />
 </p>

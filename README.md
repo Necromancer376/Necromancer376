@@ -19,7 +19,7 @@
 </p>
 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=necromancer376&repo=necromancer376.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=necromancer376&repo=necromancer376&theme=buefy" />
 </a>
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Necromancer376&show_icons=true&locale=en&theme=gotham" alt="Necromancer376" />

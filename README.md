@@ -19,7 +19,7 @@
 </p>
 
 <p>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?necromancer376" frameborder="0"></iframe>
+<img src="https://ionicabizau.github.io/github-profile-languages/api.html?necromancer376">
 </p>
 <!-- <p>
   <img align="left" src="https://ionicabizau.github.io/github-profile-languages/api.html?necromancer376"/>

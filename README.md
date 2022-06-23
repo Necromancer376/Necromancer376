@@ -18,12 +18,9 @@
 <a href="https://www.linkedin.com/in/malhar-dharmadhikari-711a60221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malhar-dharmadhikari" height="30" width="40" /></a>
 </p>
 
-<p>
-<img src="https://ionicabizau.github.io/github-profile-languages/api.html?necromancer376">
-</p>
-<!-- <p>
-  <img align="left" src="https://ionicabizau.github.io/github-profile-languages/api.html?necromancer376"/>
-</p> -->
+<a href="https://github.com/necromancer376/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=necromancer376&theme=buefy" />
+</a>
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Necromancer376&show_icons=true&locale=en&theme=gotham" alt="Necromancer376" />
 </p>

@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer376&langs_count=8&https://github.com/Necromancer376/github-readme-stats&theme=gotham"/></p>
+<br>
 <p>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Necromancer376&show_icons=true&locale=en&theme=gotham" alt="Necromancer376" />
 </p>

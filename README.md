@@ -6,7 +6,7 @@
 
 ## Current Project
 - CampusBuy ( https://github.com/Necromancer376/CampusBuy )
-  - Android App
+  - Android E-Commerce App
   - Tech Stack: Kotlin, Firebase, FireStore
   - Learning from this project: Firestore, Writing scalable/easily modifiable code, Fragment based activities
       

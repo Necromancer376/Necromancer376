@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Malhar Dharmadhikari (Necromancer376)
+- 👋 Hi, I’m Malhar Dharmadhikari
 - 👀 I’m interested in Android Dev, ML, AI, E-Commerce.
 - 🌱 I’m currently learning Android Developent, Firebase
 - 💡 I'm fluent in C++, Java, Kotlin, C, Python. I'm also comfortable with Firebase, Firestore, SQL. I am also fimiler with data visualization using R and python.

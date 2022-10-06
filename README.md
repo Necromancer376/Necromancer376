@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Dev, ML, AI, E-Commerce.
 - 🌱 I’m currently learning Android Developent, Firebase
 - 💡 I'm fluent in C++, Java, Kotlin, C, Python. I'm also comfortable with Firebase, Firestore, SQL, JSON api. I have also worked with data visualization using R and python.
-- 💞️ I’m looking to collaborate on android development projects
+- 💞️ I’m looking to collaborate on android development projects.
 - Contact: malhar.dharmadhikari@gmail.com
 
 ## Current Project

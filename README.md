@@ -5,12 +5,15 @@
 - 💞️ I’m looking to collaborate on android development projects.
 - Contact: malhar.dharmadhikari@gmail.com
 
-## Current Project
+## Current Projects
 - CampusBuy ( https://github.com/Necromancer376/CampusBuy )
   - Android E-Commerce App
   - Tech Stack: Kotlin, Firebase, FireStore
   - Learning from this project: Firebase, Firestore, Writing scalable/easily modifiable code, Fragment based activities
-      
+ 
+- Imaggit
+  - Android Reddit app
+  - Tech Stack: Kotlin, Retrofit
 
 
 <h3 align="left">Connect with me:</h3>
